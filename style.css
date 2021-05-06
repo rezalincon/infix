@@ -4,6 +4,7 @@
     
     
 }
+
 .navbar-brand{
     margin-left: 7%;
 }
@@ -14,6 +15,11 @@
 .navbar{
     color: #845594;
 }
+#navbarNavAltMarkup{
+    background-color: #F8F9FA;
+    
+}
+
 .nav-link{
     margin-left: 10%;
     color: #845594;
@@ -263,6 +269,7 @@ iframe{
 .card-itemholder2{
     display: flex;
     flex-direction: row;
+    width:100%
 }
 .support{
     background-image:linear-gradient(45deg, #8032FC,#C638D9);
